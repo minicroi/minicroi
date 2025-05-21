@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+I'm struggling on Docker,You can find latest progress in the repository.🌻🌻
+
 <!--
 **croi133/croi133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
